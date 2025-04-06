@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hello.dir/home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/test.cpp.o -o /home/fyodor/VSCode/GitRepo/simpleShaderSFML/bin/hello 
