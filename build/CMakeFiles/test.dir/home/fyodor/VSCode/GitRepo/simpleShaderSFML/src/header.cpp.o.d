@@ -1,7 +1,8 @@
-CMakeFiles/hello.dir/home/fyodor/VSCode/GitRepo/simpleShaderSFML/test.cpp.o: \
- /home/fyodor/VSCode/GitRepo/simpleShaderSFML/test.cpp \
- /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
- /usr/include/c++/13/bits/requires_hosted.h \
+CMakeFiles/test.dir/home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.o: \
+ /home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp \
+ /usr/include/stdc-predef.h \
+ /home/fyodor/VSCode/GitRepo/simpleShaderSFML/build/../include/header.hpp \
+ /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -149,5 +150,4 @@ CMakeFiles/hello.dir/home/fyodor/VSCode/GitRepo/simpleShaderSFML/test.cpp.o: \
  /usr/include/c++/13/bits/locale_facets.tcc \
  /usr/include/c++/13/bits/basic_ios.tcc \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
- /usr/include/c++/13/bits/istream.tcc /usr/include/c++/13/optional \
- /usr/include/c++/13/bits/enable_special_members.h
+ /usr/include/c++/13/bits/istream.tcc

@@ -231,15 +231,6 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
-hello_BINARY_DIR:STATIC=/home/fyodor/VSCode/GitRepo/simpleShaderSFML/build
-
-//Value Computed by CMake
-hello_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-hello_SOURCE_DIR:STATIC=/home/fyodor/VSCode/GitRepo/simpleShaderSFML/build
-
-//Value Computed by CMake
 test_BINARY_DIR:STATIC=/home/fyodor/VSCode/GitRepo/simpleShaderSFML/build
 
 //Value Computed by CMake

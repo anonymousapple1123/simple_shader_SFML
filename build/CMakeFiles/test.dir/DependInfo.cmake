@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp" "CMakeFiles/test.dir/home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.o" "gcc" "CMakeFiles/test.dir/home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.o.d"
   "/home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/test.cpp" "CMakeFiles/test.dir/home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/test.cpp.o" "gcc" "CMakeFiles/test.dir/home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/test.cpp.o.d"
   )
 

@@ -129,6 +129,30 @@ test/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
 .PHONY : test/fast
 
+home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.o: home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.o
+.PHONY : home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.o
+
+# target to build an object file
+home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.o
+.PHONY : home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.o
+
+home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.i: home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.i
+.PHONY : home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.i
+
+# target to preprocess a source file
+home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.i
+.PHONY : home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.i
+
+home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.s: home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.s
+.PHONY : home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.s
+
+# target to generate assembly for a file
+home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.s
+.PHONY : home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.cpp.s
+
 home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/test.o: home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/test.cpp.o
 .PHONY : home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/test.o
 
@@ -162,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... test"
+	@echo "... home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.o"
+	@echo "... home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.i"
+	@echo "... home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/header.s"
 	@echo "... home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/test.o"
 	@echo "... home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/test.i"
 	@echo "... home/fyodor/VSCode/GitRepo/simpleShaderSFML/src/test.s"
