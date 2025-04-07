@@ -1,0 +1,4 @@
+# Compilation command for main file 
+
+g++ -o runfile main.o -lsfml-graphics -lsfml-window -lsfml-system
+
