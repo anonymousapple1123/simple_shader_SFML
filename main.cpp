@@ -24,7 +24,7 @@ int main() {
         }
 
         // Move the circle horizontally over time
-        circle.move(100.0f * deltaTime.asSeconds(), 0); // 100 units per second
+        circle.move(90.0f * deltaTime.asSeconds(), 0); // 100 units per second
 
         // Clear the window, draw the circle, and display it
         window.clear();
