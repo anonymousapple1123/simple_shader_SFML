@@ -2,6 +2,9 @@
 #include <vector>
 #include <string>
 #include <cmath>
+#include "header.hpp"
+
+
 
 // Settings
 const int GRID_SPACING = 40; // Pixels between grid lines
@@ -81,6 +84,7 @@ void drawGrid(sf::RenderWindow& window, const sf::Font& font, const sf::Vector2u
 }
 
 int main() {
+    headers();
     sf::RenderWindow window(sf::VideoMode(800, 600), "Math Grid", sf::Style::Default);
     window.setFramerateLimit(60);
 

@@ -1,7 +1,4 @@
 #pragma once
 
-class include{
+void headers();
 
-	public: 
-		 void headers();
-};
