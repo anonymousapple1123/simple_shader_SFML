@@ -93,8 +93,8 @@ int main() {
         return -1;
     }
 
-    std::vector<float> xCoords = {1, -3, 0, 2.5};
-    std::vector<float> yCoords = {2, 1, -2, -1.5};
+    std::vector<float> xCoords = {1, 2, 3, 4};
+    std::vector<float> yCoords = {2, 3, 4, 5};
 
     while (window.isOpen()) {
         sf::Event event;
