@@ -1,2 +1,4 @@
 # ninja log v6
-2	669	1749744507119226446	CMakeFiles/main.dir/src/main.cpp.o	9a5a3b44dd74ff67
+2	402	1749745369019205530	CMakeFiles/main.dir/src/header.cpp.o	b8ded09e307314fd
+2	637	1749745369019205530	CMakeFiles/main.dir/src/main.cpp.o	b85b52ebf55da055
+638	763	1749745369655229521	/home/fyodor/VScode/GitProject/simpleShaderSFML/bin/main	4735e7f4dbfcf00f
