@@ -4,8 +4,6 @@
 #include <cmath>
 #include "header.hpp"
 
-
-
 // Settings
 const int GRID_SPACING = 40; // Pixels between grid lines
 const int POINT_RADIUS = 6;
