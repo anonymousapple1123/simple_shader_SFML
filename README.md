@@ -1,6 +1,11 @@
-# simpleShaderSFML
+# Simple Shader using SFML
 
-I needed some shader to show output for all of my other projects 
+Its A shader that too using SFML [it just display a xy chart only]
 
-generate>  cmake -S . -B build -G Ninja
-build>     cmake --build build
+##Environment:
+> A c/c++ compiler
+> cmake
+> ninja
+
+generate>  'cmake -S . -B build -G Ninja'
+build>     'cmake --build build'
