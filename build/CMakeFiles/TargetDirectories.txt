@@ -1,3 +1,0 @@
-/home/fyodor/VScode/GitProject/simpleShaderSFML/build/CMakeFiles/main.dir
-/home/fyodor/VScode/GitProject/simpleShaderSFML/build/CMakeFiles/edit_cache.dir
-/home/fyodor/VScode/GitProject/simpleShaderSFML/build/CMakeFiles/rebuild_cache.dir
