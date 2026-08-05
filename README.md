@@ -1,16 +1,12 @@
-# Simple Shader using SFML
+# Simple display graphics using SFML lib
 
-It's a shader that too using SFML 
+It's basically to learn sfml library for simple tasks.
 
-> It just display a xy chart for now
 
 ### Environment:
-> A c/c++ compiler
-
-> cmake
-
-> ninja
+>  gcc/clang compiler
+>  sfml
 
 
-
-**Build :**  ```cmake -S . -B build -G Ninja``` &&   ```cmake --build build```
+###Apple silicon only
+**Build :**  ```./run.sh```
