@@ -1,4 +1,12 @@
-# Compilation command for main file 
+# Compilation command for main file
 
+NEW
+clang++ -std=c++17 main.cpp -o app \
+    -I"C/include" \
+    -L"$BREW_PREFIX/lib" \
+    -lsfml-window -lsfml-system
+
+NOTE: For system other than apple silicon replace $BREW_PREFIX with sfml path in your system.
+
+OLD
 g++ -o runfile main.cpp -lsfml-graphics -lsfml-window -lsfml-system
-
